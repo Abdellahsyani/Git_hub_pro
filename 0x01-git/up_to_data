@@ -1,0 +1,6 @@
+name = "abdo"
+age = 23
+live = "morocco"
+study = "Alx school"
+print("My name is " + name + " I am a " + age + " years old and I live in " + live + " now I'm student in " + study)
+print("abdellah /n  abdo")
